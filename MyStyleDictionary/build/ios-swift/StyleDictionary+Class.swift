@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Nov 2022 09:27:39 GMT
+// Generated on Wed, 23 Nov 2022 09:42:44 GMT
 
 
 import UIKit
@@ -21,7 +21,7 @@ public class StyleDictionaryClass {
     public static let tokensPrimaryBlue300 = #6C8CFF
     public static let tokensPrimaryBlue400 = #5C33FF
     public static let tokensPrimaryBlue50 = #F1F8FF
-    public static let tokensPrimaryBlue500 = #00094f
+    public static let tokensPrimaryBlue500 = #051abd
     public static let tokensRoboto = Roboto
     public static let tokensSecondaryError = #EB4444
     public static let tokensSecondaryLightblue100 = #E3FAFF

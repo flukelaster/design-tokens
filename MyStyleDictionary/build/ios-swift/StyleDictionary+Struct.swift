@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Nov 2022 09:27:39 GMT
+// Generated on Wed, 23 Nov 2022 09:42:44 GMT
 
 
 import UIKit
@@ -21,7 +21,7 @@ internal struct StyleDictionaryStruct {
     internal static let tokensPrimaryBlue300 = #6C8CFF
     internal static let tokensPrimaryBlue400 = #5C33FF
     internal static let tokensPrimaryBlue50 = #F1F8FF
-    internal static let tokensPrimaryBlue500 = #00094f
+    internal static let tokensPrimaryBlue500 = #051abd
     internal static let tokensRoboto = Roboto
     internal static let tokensSecondaryError = #EB4444
     internal static let tokensSecondaryLightblue100 = #E3FAFF
