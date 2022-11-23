@@ -4,41 +4,41 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Nov 2022 08:29:48 GMT
+// Generated on Wed, 23 Nov 2022 09:27:39 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let globalBlackBlack = #1E1E1E
-    internal static let globalBlackGray = #8B8B8B
-    internal static let globalBlackLightgray = #DFDFDF
-    internal static let globalBlackWhite = #FFFFFF
-    internal static let globalBorrderRadiusSmall = 16px
-    internal static let globalBoxShadow = [object Object]
-    internal static let globalPrimaryBlue100 = #E8EEFF
-    internal static let globalPrimaryBlue200 = #E8E7FF
-    internal static let globalPrimaryBlue300 = #6C8CFF
-    internal static let globalPrimaryBlue400 = #5C33FF
-    internal static let globalPrimaryBlue50 = #F1F8FF
-    internal static let globalPrimaryBlue500 = #0A28FF
-    internal static let globalRoboto = Roboto
-    internal static let globalSecondaryError = #EB4444
-    internal static let globalSecondaryLightblue100 = #E3FAFF
-    internal static let globalSecondaryLightblue200 = #AAEEFF
-    internal static let globalSecondaryLightblue300 = #80E5FF
-    internal static let globalSecondaryLightblue400 = #55DDFF
-    internal static let globalSecondaryLightblue500 = #00CCFF
-    internal static let globalSecondaryLightpurple = #CC99FF
-    internal static let globalSecondarySuccess = #4CAF1E
-    internal static let globalSecondaryWaiting = #FF7A00
-    internal static let globalSecondaryWarning = #F9CB2C
-    internal static let globalTextDescription = 16px
-    internal static let globalTextH1 = 40
-    internal static let globalTextH2 = 36px
-    internal static let globalTextH3 = 28px
-    internal static let globalTextH4 = 24px
-    internal static let globalTextH5 = 20px
-    internal static let globalTextHeading = 50px
-    internal static let globalTextRemark = 14px
+    internal static let tokensBlackBlack = #1E1E1E
+    internal static let tokensBlackGray = #8B8B8B
+    internal static let tokensBlackLightgray = #DFDFDF
+    internal static let tokensBlackWhite = #FFFFFF
+    internal static let tokensBorderRadiusSmall = 16px
+    internal static let tokensBoxShadow = [object Object]
+    internal static let tokensPrimaryBlue100 = #E8EEFF
+    internal static let tokensPrimaryBlue200 = #E8E7FF
+    internal static let tokensPrimaryBlue300 = #6C8CFF
+    internal static let tokensPrimaryBlue400 = #5C33FF
+    internal static let tokensPrimaryBlue50 = #F1F8FF
+    internal static let tokensPrimaryBlue500 = #00094f
+    internal static let tokensRoboto = Roboto
+    internal static let tokensSecondaryError = #EB4444
+    internal static let tokensSecondaryLightblue100 = #E3FAFF
+    internal static let tokensSecondaryLightblue200 = #AAEEFF
+    internal static let tokensSecondaryLightblue300 = #80E5FF
+    internal static let tokensSecondaryLightblue400 = #55DDFF
+    internal static let tokensSecondaryLightblue500 = #00CCFF
+    internal static let tokensSecondaryLightpurple = #CC99FF
+    internal static let tokensSecondarySuccess = #4CAF1E
+    internal static let tokensSecondaryWaiting = #FF7A00
+    internal static let tokensSecondaryWarning = #F9CB2C
+    internal static let tokensTextDescription = 16px
+    internal static let tokensTextH1 = 40px
+    internal static let tokensTextH2 = 36px
+    internal static let tokensTextH3 = 28px
+    internal static let tokensTextH4 = 24px
+    internal static let tokensTextH5 = 20px
+    internal static let tokensTextHeading = 50px
+    internal static let tokensTextRemark = 14px
 }

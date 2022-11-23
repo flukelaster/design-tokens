@@ -1,38 +1,38 @@
 /**
  * Do not edit directly
- * Generated on Wed, 23 Nov 2022 08:29:48 GMT
+ * Generated on Wed, 23 Nov 2022 09:27:39 GMT
  */
 
 :root {
-  --global-primary-blue500: #0A28FF;
-  --global-primary-blue400: #5C33FF;
-  --global-primary-blue300: #6C8CFF;
-  --global-primary-blue200: #E8E7FF;
-  --global-primary-blue100: #E8EEFF;
-  --global-primary-blue50: #F1F8FF;
-  --global-secondary-lightblue500: #00CCFF;
-  --global-secondary-lightblue400: #55DDFF;
-  --global-secondary-lightblue300: #80E5FF;
-  --global-secondary-lightblue200: #AAEEFF;
-  --global-secondary-lightblue100: #E3FAFF;
-  --global-secondary-lightpurple: #CC99FF;
-  --global-secondary-warning: #F9CB2C;
-  --global-secondary-error: #EB4444;
-  --global-secondary-success: #4CAF1E;
-  --global-secondary-waiting: #FF7A00;
-  --global-borrder-radius-small: 16px;
-  --global-box-shadow: [object Object];
-  --global-roboto: Roboto;
-  --global-text-heading: 50px;
-  --global-text-h1: 40;
-  --global-text-h2: 36px;
-  --global-text-h3: 28px;
-  --global-text-h4: 24px;
-  --global-text-h5: 20px;
-  --global-text-description: 16px;
-  --global-text-remark: 14px;
-  --global-black-black: #1E1E1E;
-  --global-black-gray: #8B8B8B;
-  --global-black-lightgray: #DFDFDF;
-  --global-black-white: #FFFFFF;
+  --tokens-primary-blue500: #00094f;
+  --tokens-primary-blue400: #5C33FF;
+  --tokens-primary-blue300: #6C8CFF;
+  --tokens-primary-blue200: #E8E7FF;
+  --tokens-primary-blue100: #E8EEFF;
+  --tokens-primary-blue50: #F1F8FF;
+  --tokens-secondary-lightblue500: #00CCFF;
+  --tokens-secondary-lightblue400: #55DDFF;
+  --tokens-secondary-lightblue300: #80E5FF;
+  --tokens-secondary-lightblue200: #AAEEFF;
+  --tokens-secondary-lightblue100: #E3FAFF;
+  --tokens-secondary-lightpurple: #CC99FF;
+  --tokens-secondary-warning: #F9CB2C;
+  --tokens-secondary-error: #EB4444;
+  --tokens-secondary-success: #4CAF1E;
+  --tokens-secondary-waiting: #FF7A00;
+  --tokens-black-black: #1E1E1E;
+  --tokens-black-gray: #8B8B8B;
+  --tokens-black-lightgray: #DFDFDF;
+  --tokens-black-white: #FFFFFF;
+  --tokens-roboto: Roboto;
+  --tokens-text-heading: 50px;
+  --tokens-text-h1: 40px;
+  --tokens-text-h2: 36px;
+  --tokens-text-h3: 28px;
+  --tokens-text-h4: 24px;
+  --tokens-text-h5: 20px;
+  --tokens-text-description: 16px;
+  --tokens-text-remark: 14px;
+  --tokens-border-radius-small: 16px;
+  --tokens-box-shadow: [object Object];
 }
